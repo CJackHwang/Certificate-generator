@@ -6,7 +6,6 @@
 ## 开发者
 @CJackHwang
 ## 联系邮箱
-* tetr20071102@gmail.com
-* 2073782156@qq.com
+* cjackhwang@qq.com
 ### 开发备注
 使用了GPT辅助制作修改功能
